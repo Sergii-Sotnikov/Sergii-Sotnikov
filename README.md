@@ -54,10 +54,10 @@ Role: interface logic, animations, responsive structure.
 ## ✦ Tech Stack
 
 **Frontend**  
-React · Next.js · JavaScript · TypeScript · Tailwind · Sass · Framer Motion  
+React · Next.js · JavaScript · TypeScript · 
 
 **Backend**  
-Node.js · Express · MongoDB · REST API · Authentication · Deployment  
+Node.js · Express · MongoDB · REST API · Authentication · 
 
 **Tools**  
 Git · GitHub · Vercel · Render · Postman · Figma  
