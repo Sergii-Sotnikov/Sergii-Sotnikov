@@ -1,7 +1,14 @@
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2200&pause=700&color=4C8DFF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Hi%2C+I'm+Sergii+Sotnikov;Full-Stack+Developer+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+Node.js;"
+    alt="Typing SVG"
+/>
+</p>
+
+---
+
 ### **Full-Stack Developer (React · Next.js · Node.js)**  
 Crafting modern, reliable and scalable applications in the JavaScript ecosystem.
-
-</div>
 
 ---
 
@@ -20,13 +27,13 @@ What matters to me:
 
 ## ✦ Selected Work
 
-### **🚀 FireSi — Commercial B2B Platform (Solo)**
+### **🚀 FireSi: Commercial B2B Platform (Solo)**
 **Live:** https://firesi.com.ua  
 Complete production system: roles, pricing logic, filters, catalog, admin tools.  
 
 ---
 
-### **🧭 Travel Stories — Social-Travel Application (Team)**
+### **🧭 Travel Stories Social-Travel Application (Team)**
 **Live:** https://project-traveller-app.netlify.app/  
 Frontend & backend development: API, models, UI flows.  
 **Repos:**  
@@ -35,7 +42,7 @@ Frontend & backend development: API, models, UI flows.
 
 ---
 
-### **🛒 STP-9536 — E-commerce Experience (Team)**
+### **🛒 STP-9536: E-commerce Experience (Team)**
 **Live:** https://arturmykhalyk.github.io/STP-9536/  
 **Repo:** https://github.com/ArturMykhalyk/STP-9536  
 Role: interface logic, animations, responsive structure.
@@ -45,10 +52,10 @@ Role: interface logic, animations, responsive structure.
 ## ✦ Tech Stack
 
 **Frontend**  
-React · Next.js · JavaScript · TypeScript · 
+React · Next.js · JavaScript · TypeScript  
 
 **Backend**  
-Node.js · Express · MongoDB · REST API · Authentication · 
+Node.js · Express · MongoDB · REST API · Authentication  
 
 **Tools**  
 Git · GitHub · Vercel · Render · Postman · Figma  
@@ -61,7 +68,7 @@ Git · GitHub · Vercel · Render · Postman · Figma
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Sergii-Sotnikov&show_icons=true&theme=dark&hide_border=true&title_color=4c8dff&icon_color=4c8dff" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergi-Sotnikov&layout=compact&theme=dark&hide_border=true&title_color=4c8dff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergii-Sotnikov&layout=compact&theme=dark&hide_border=true&title_color=4c8dff" />
 
 </div>
 
@@ -70,7 +77,7 @@ Git · GitHub · Vercel · Render · Postman · Figma
 ## ✦ Activity Stream
 
 <div align="center">
-  <img src="https://github.com/Sergii-Sotnikov/SergiiSotnikov/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
+  <img src="https://github.com/Sergii-Sotnikov/Sergii-Sotnikov/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" />
 </div>
 
 ---
