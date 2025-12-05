@@ -31,7 +31,6 @@ What matters to me:
 ### **🚀 FireSi — Commercial B2B Platform (Solo)**
 **Live:** https://firesi.com.ua  
 Complete production system: roles, pricing logic, filters, catalog, admin tools.  
-**Tech:** Next.js · Node.js · MongoDB · REST · Cloudinary · Vercel · Render  
 
 ---
 
